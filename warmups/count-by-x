@@ -1,0 +1,14 @@
+
+
+function countBy(x, n) {
+    let res = []
+    let increment = x
+    res.push(increment)
+    for (let i = 1; i < n; i++) {
+        increment = increment + x
+        res.push(increment)
+    }
+    return res
+}
+
+console.log(countBy(2, 5))

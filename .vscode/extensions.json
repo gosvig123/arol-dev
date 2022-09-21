@@ -1,0 +1,30 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "eliverlara.sweet-vscode-icons",
+        "rvest.vs-code-prettier-eslint",
+        "github.remotehub",
+        "mcright.auto-save",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "streetsidesoftware.code-spell-checker",
+        "yutengjing.vscode-colorize-plus",
+        "yongzeyao.dom-code-snippets",
+        "samundrak.esdoc-mdn",
+        "sidthesloth.html5-boilerplate",
+        "ecmel.vscode-html-css",
+        "oderwat.indent-rainbow",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "xabikos.javascriptsnippets",
+        "leizongmin.node-module-intellisense",
+        "christian-kohler.npm-intellisense",
+        "trabpukcip.vscode-npm-scripts",
+        "johnpapa.vscode-peacock",
+        "monish.regexsnippets",
+        "jasonnutter.search-node-modules",
+        "shan.code-settings-sync",
+        "formulahendry.code-runner",
+        "GitHub.remotehub"
+    ]
+}
